@@ -1,6 +1,6 @@
 # Spectral Lab
 
-A GPU spectral **freeze + morph** instrument, built on [Pulp](https://github.com/danielraffel/pulp). Signed and notarized for macOS (Apple Silicon).
+A GPU spectral **freeze + morph** instrument, built on [Pulp](https://github.com/Generous-Corp/pulp). Signed and notarized for macOS (Apple Silicon).
 
 > Temporary distribution repo for sharing preview builds. The source lives in the Pulp repo (`examples/spectral-lab`).
 
